@@ -1,2 +1,3 @@
 ﻿Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. 
 Hello world Guranda Valeria
+Hello Mihai
